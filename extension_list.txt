@@ -1,0 +1,11 @@
+c/c++
+c#
+debugger for chrome
+docker
+git graph
+github
+gitlens
+markdown preview github styling
+python
+remote
+intellicode
