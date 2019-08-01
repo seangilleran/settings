@@ -1,0 +1,46 @@
+
+{
+    // Editor & Window Settings
+    "workbench.colorTheme": "Default Light+",
+    "editor.fontFamily": "Source Code Variable",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        80
+    ],
+    "editor.suggestSelection": "first",
+    "files.exclude":{
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.empty": true,
+        "**/__pycache__": true,
+        "**/*.pyc$": true,
+    },
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": -1,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "gitlens.blame.heatmap.enabled": false,
+    "gitlens.blame.highlight.enabled": false,
+    "gitlens.blame.toggleMode": "window",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.heatmap.toggleMode": "window",
+    "gitlens.hovers.annotations.enabled": false,
+    "gitlens.hovers.currentLine.enabled": false,
+    "gitlens.hovers.enabled": false,
+    "gitlens.views.lineHistory.enabled": false,
+
+    "python.dataScience.askForKernelRestart": false,
+    "python.pythonPath": "/usr/bin/python3",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.jediEnabled": false,
+}
